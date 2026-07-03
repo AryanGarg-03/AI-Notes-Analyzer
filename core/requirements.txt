@@ -1,0 +1,10 @@
+streamlit
+pdfplumber
+pytesseract
+pillow
+easyocr
+scikit-learn
+sentence-transformers
+google-genai
+pymupdf
+python-dotenv

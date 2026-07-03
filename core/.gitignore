@@ -1,0 +1,8 @@
+.env
+benchmark.py
+__pycache__/
+*.pyc
+.venv/
+venv/
+study_report.json
+notes_analysis.json
